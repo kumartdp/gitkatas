@@ -1,1 +1,1 @@
-conflict2
+branch edit of conflict2
