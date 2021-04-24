@@ -1,1 +1,1 @@
-edit of master conflict2
+resolved merge conflict
