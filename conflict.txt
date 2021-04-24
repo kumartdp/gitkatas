@@ -1,1 +1,1 @@
-this is conflict
+this is conflict edited in branch
