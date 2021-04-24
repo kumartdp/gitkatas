@@ -1,1 +1,2 @@
-edit of master conflict2
+conflict resolved using mergetool
+
